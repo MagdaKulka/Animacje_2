@@ -1,0 +1,11 @@
+.container {
+  width: 300px;
+  height: 300px;
+  transition-duration: 1s;
+}
+
+.container:hover {
+  border-width: 3px;
+  border-color: black;
+  border-style: solid;
+}
